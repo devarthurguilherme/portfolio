@@ -1,9 +1,13 @@
 import React from 'react'
-import Testimonial from '../components/Testimonial'
 const about = () => {
   return (
     <div>
-      <Testimonial />
+     <h1>About</h1>
+     <h1>About</h1>
+     <h1>About</h1>
+     <h1>About</h1>
+     <h1>About</h1>
+     <h1>About</h1>
     </div>
   )
 }
