@@ -1,6 +1,5 @@
 import Link from "next/link"
 
-
 const NavBar = () => {
   return (
     <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
