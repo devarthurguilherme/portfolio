@@ -1,13 +1,10 @@
-import React from 'react'
+import Biograph from "../components/Biograph"
+import Feature from "../components/Feature"
 const about = () => {
   return (
     <div>
-     <h1>About</h1>
-     <h1>About</h1>
-     <h1>About</h1>
-     <h1>About</h1>
-     <h1>About</h1>
-     <h1>About</h1>
+      <Biograph />
+      <Feature />
     </div>
   )
 }
