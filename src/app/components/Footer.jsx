@@ -1,4 +1,5 @@
 import LogoArthurGuilherme from './LogoArthurGuilherme';
+import MobileMenu from "./MobileMenu";
 
 {/*Change a for Link and put a MAP Function*/}
 
@@ -43,6 +44,7 @@ export default function Footer(){
                 </a>
                 </span>
             </div>
+            <MobileMenu />
         </footer>
 
     )
